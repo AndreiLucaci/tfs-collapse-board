@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+  
+    "name": "TFS collapse board",
+    "description": "This extension allows the user to collapse the TFS board",
+    "version": "1.1",
+  
+    "permissions": [
+        "activeTab"
+      ],
+      "background": {
+        "scripts": ["collapse.js"],
+        "persistent": false
+      },
+
+    "browser_action": {
+    }
+  }
