@@ -13,6 +13,7 @@
         "persistent": false
       },
 
-    "browser_action": {
+    "icons": {
+      "128": "icon128.png"
     }
   }
