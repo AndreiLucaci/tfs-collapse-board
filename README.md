@@ -2,6 +2,9 @@
 The Chrome extension for collapsing a TFS board.
 
 # Release:
+## v.1.2.2.3: [link](https://github.com/AndreiLucaci/tfs-collapse-board/tree/1.2.2.3)
+
+# Release:
 ## v.1.2.2.2: [link](https://github.com/andreilucaci/tfs-collapse-board/tree/1.2.2.2)
 
 # Release:
