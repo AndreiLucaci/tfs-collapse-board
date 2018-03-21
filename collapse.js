@@ -11,6 +11,9 @@
     if (taskboard.length) {
         var taskboardElems = $("tr.taskboard-row.taskboard-content-row[id^='taskboard-row-']:not([style]) div.minimize, tr.taskboard-row.taskboard-content-row[id^='taskboard-row-'][style=''] div.minimize");
         triggerClick(taskboardElems);
+        // tfs 2018
+        var newElems = $("tr.taskboard-row.taskboard-content-row td:visible");
+        triggerClick(newElems);
     }
 
     // agile board
